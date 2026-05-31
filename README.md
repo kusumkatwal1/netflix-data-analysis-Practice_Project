@@ -9,6 +9,7 @@ Data analytics project focused on cleaning, analyzing, and visualizing Netflix c
   - insight generation
   - project documentation
 
-##Tools
+## Tools
   - Jupyter Notebook
   - GitHub
+## Project Structure
