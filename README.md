@@ -14,7 +14,7 @@ Data analytics project focused on cleaning, analyzing, and visualizing Netflix c
   - GitHub
     
 ## Project Structure
-  - README.md - explaining briefly about the project
+  - README.md - _explaining briefly about the project_
 
 
 
