@@ -36,7 +36,7 @@ The dataset includes Netflix title information and actor/director credits.
     
 ## Project Structure
   - README.md - _explaining briefly about the project_
-  - data - contains credit and title data
+  - data - _This is a folder containing: credit and title data files_
 
 
 
