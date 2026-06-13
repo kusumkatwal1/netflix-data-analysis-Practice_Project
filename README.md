@@ -58,6 +58,8 @@ The dataset includes Netflix title information and actor/director credits.
     - SQL join analysis using cleaned temporary views
 
 ## Key Insights
+Movies make up a large portion of Netflix content.
+IMDb scores help identify highly rated Netflix titles.
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_
