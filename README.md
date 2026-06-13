@@ -56,6 +56,8 @@ The dataset includes Netflix title information and actor/director credits.
     - Actor/title relationship analysis
     - Director average IMDb score analysis
     - SQL join analysis using cleaned temporary views
+
+## Key Insights
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_
