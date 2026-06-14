@@ -71,6 +71,9 @@ Data cleaning
 Exploratory data analysis
 SQL querying
 SQL joins
+Relational dataset analysis
+Debugging real-world data issues
+GitHub project documentation
 
     
 ## Project Structure
